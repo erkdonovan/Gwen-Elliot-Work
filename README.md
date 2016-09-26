@@ -8,6 +8,6 @@ page-about-connect - a basic page template with different sections
 
 page-createcontent - a full development of a design by Rachel Ma, fully editable
 
-<img src="gwenelliot-mediacoaching-thumb.jpg">
+<img src="img/gwenelliot-mediacoaching-thumb.jpg">
 
-<img src="gwenelliot-mediacoaching.jpg" style="width: 130px;"/>
+<img src="img/gwenelliot-mediacoaching.jpg" style="width: 130px;"/>
