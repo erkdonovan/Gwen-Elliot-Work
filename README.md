@@ -10,4 +10,4 @@ page-createcontent - a full development of a design by Rachel Ma, fully editable
 
 <img src="gwenelliot-mediacoaching-thumb.jpg">
 
-<img src="gwenelliot-mediacoaching.jpg">
+<img src="gwenelliot-mediacoaching.jpg" style="width: 130px;"/>
